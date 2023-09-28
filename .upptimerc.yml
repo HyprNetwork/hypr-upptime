@@ -1,24 +1,22 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: HyprNetwork # Your GitHub organization or username, where this repository lives
+repo: hypr-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Goerli Testnet RPC
+    url: http://testnet-proposer0.hypr.network:8545
+    icon: https://uploads-ssl.webflow.com/64bdb8c416a90b995c7878f1/64bdbe22b40e27828d8553b8_favicon2.png
+  - name: Goerli Testnet Blockscout
+    url: https://testnet-blockscout.hypr.network/
+    icon: https://testnet-blockscout.hypr.network/images/favicon-32x32-4ded6db466a407f532e22de62b14fb01.png?vsn=d
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /hypr-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Hypr Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -29,3 +27,14 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+commitMessages:
+  commitAuthorName: "tommadybot"
+  commitAuthorEmail: "tommadybot@users.noreply.github.com"
+
+user-agent: tommadybot
+i18n:
+  footer: ""
