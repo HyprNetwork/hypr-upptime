@@ -1,7 +1,7 @@
 url: https://testnet-blockscout.hypr.network/
-status: up
-code: 200
-responseTime: 782
-lastUpdated: 2023-10-08T23:03:03.474Z
+status: down
+code: 502
+responseTime: 472
+lastUpdated: 2023-10-09T18:39:19.587Z
 startTime: 2023-09-28T02:30:55.242Z
 generator: Upptime <https://github.com/upptime/upptime>
