@@ -4,7 +4,7 @@
     "url": "http://testnet-proposer0.hypr.network:8545",
     "icon": "https://uploads-ssl.webflow.com/64bdb8c416a90b995c7878f1/64bdbe22b40e27828d8553b8_favicon2.png",
     "slug": "goerli-testnet-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 300,
     "timeMonth": 296,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-13": 0
+    }
   },
   {
     "name": "Goerli Testnet Blockscout",
@@ -23,11 +25,11 @@
     "icon": "https://testnet-blockscout.hypr.network/images/favicon-32x32-4ded6db466a407f532e22de62b14fb01.png?vsn=d",
     "slug": "goerli-testnet-blockscout",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.06%",
+    "uptimeYear": "97.09%",
     "time": 664,
     "timeDay": 765,
     "timeWeek": 644,
