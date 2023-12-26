@@ -4,7 +4,7 @@
     "url": "http://testnet-proposer0.hypr.network:8545",
     "icon": "https://uploads-ssl.webflow.com/64bdb8c416a90b995c7878f1/64bdbe22b40e27828d8553b8_favicon2.png",
     "slug": "goerli-testnet-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 327,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2023-12-26": 0,
       "2023-12-17": 6,
       "2023-12-09": 25,
       "2023-11-14": 8,
